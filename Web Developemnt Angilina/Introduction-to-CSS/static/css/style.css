@@ -1,0 +1,121 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  a{
+    color: #11999E;
+  }
+  a:hover{
+    color: #EAF6F6 ;
+  }
+  h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    margin: 160px auto 0 auto;
+    color: #66BFBF;
+  
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+  hr{
+    width: 5%;
+    border-style:dotted;
+    border-width: 5px 0 0 0;
+    border-color: #A5F7F0;
+    margin: 50px auto;
+  }
+  p{
+    line-height: 2;
+  }
+  .top-container{
+    background-color: #cdfffc;
+    position: relative;
+    padding-top: 100px;
+  }
+  .middle-container{
+    margin: 100px 0;
+  }
+  .top-cloud{
+    position: absolute;
+    top:50px;
+    right: 450px;
+    height: 100px;
+    width:250px;
+    margin-bottom: 0;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left:450px;
+    bottom: 300px;
+    height: 100px;
+    width:250px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+  }
+  .img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  .contact-me{
+    height: 400px;
+    margin: 20px 0;
+  }
+  .btn {
+     border-radius: 40px;
+     color: #FFFFFF;
+     padding: 20px;
+     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     width: 200px;
+     margin: 40px 0;
+     font-weight: bold;
+   }
+   .btn:hover{
+     background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+   }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 120px;
+    color: #EAF6F6;
+  }
+  .footer-link{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #11999E;
+  }
+  .para{
+    width: 40%;
+    margin: auto;
+  }
+  .copy{
+    padding: 10px 0;
+    font-size: 2rem;
+  }
+  .profilepic{
+    width: 200px;
+    height: 200px;
+  }
