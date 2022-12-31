@@ -1,6 +1,25 @@
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat','Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(239, 109, 109);
+    padding: 10px;
+}
+
 .nav{
-    background-color: rgb(193, 255, 238);
     padding: 10px;
     text-align: left;
     font-size: 20px;
+    margin-top: 0;
+
+}
+.titlehea{
+    font-size: 3rem;
+    line-height: 1.4;
+}
+.img-fluid{
+    margin-top: 0;
+    padding: 0;
+    float: center;
 }
