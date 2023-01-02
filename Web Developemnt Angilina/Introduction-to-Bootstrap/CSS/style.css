@@ -102,23 +102,31 @@ p{
 
 #testimonials{
     background-color:  rgb(215, 227, 228);
-    padding: 2% 12%;
+    text-align: center;
+    
 }
 .testimonial-img{
     width: 15%;
     
 }
+.carousel-item{
+    padding: 2% 10%;
+}
 .testimonial-box{
     padding: 10px;
     text-align: center;
-    height: 400px;
+}
+.course-head{
+    font-size: 2.5rem;
+    line-height: 1;
+    text-align: center;
+    margin-top: 30px;
 }
 .testimonial-text{
     font-size: 1.5rem;
     line-height: 1.4;
     text-align: center;
-    margin-left: 15%;
-    width: 70%;
+    padding: 10px;
 }
 #clients{
     background-color: rgb(249, 143, 143);
@@ -136,7 +144,22 @@ p{
     text-align: center;
     height: 200px;
 }
-.carousel-btn{
-    margin: 0;
-    padding: 0;
+
+#pricing{
+    background-color: rgb(215, 227, 228);
+    padding: 2% 12%;
+}
+.btn-price{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    float: right;
+}
+.pricing-price{
+    font-size: 1.5rem;
+    line-height: 1.4;
+    text-align: left;
+    padding: 20px;
 }
