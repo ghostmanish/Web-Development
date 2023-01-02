@@ -103,11 +103,22 @@ p{
 #testimonials{
     background-color:  rgb(215, 227, 228);
     padding: 2% 12%;
-    text-align: center;
 }
 .testimonial-img{
-    width: 30%;
-    height: 200px;
+    width: 15%;
+    
+}
+.testimonial-box{
+    padding: 10px;
+    text-align: center;
+    height: 400px;
+}
+.testimonial-text{
+    font-size: 1.5rem;
+    line-height: 1.4;
+    text-align: center;
+    margin-left: 15%;
+    width: 70%;
 }
 #clients{
     background-color: rgb(249, 143, 143);
@@ -123,5 +134,9 @@ p{
 .client-box{
     padding: 10px;
     text-align: center;
-    height: 150px;
+    height: 200px;
+}
+.carousel-btn{
+    margin: 0;
+    padding: 0;
 }
